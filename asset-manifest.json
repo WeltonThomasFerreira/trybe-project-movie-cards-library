@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/trybe-project-movie-cards-library/static/css/main.e2f7de8e.chunk.css",
+    "main.js": "/trybe-project-movie-cards-library/static/js/main.594e7d02.chunk.js",
+    "main.js.map": "/trybe-project-movie-cards-library/static/js/main.594e7d02.chunk.js.map",
+    "runtime-main.js": "/trybe-project-movie-cards-library/static/js/runtime-main.5891c939.js",
+    "runtime-main.js.map": "/trybe-project-movie-cards-library/static/js/runtime-main.5891c939.js.map",
+    "static/js/2.9a6a2542.chunk.js": "/trybe-project-movie-cards-library/static/js/2.9a6a2542.chunk.js",
+    "static/js/2.9a6a2542.chunk.js.map": "/trybe-project-movie-cards-library/static/js/2.9a6a2542.chunk.js.map",
+    "index.html": "/trybe-project-movie-cards-library/index.html",
+    "precache-manifest.2f6ee05a6d968cbdc32090b718022fb1.js": "/trybe-project-movie-cards-library/precache-manifest.2f6ee05a6d968cbdc32090b718022fb1.js",
+    "service-worker.js": "/trybe-project-movie-cards-library/service-worker.js",
+    "static/css/main.e2f7de8e.chunk.css.map": "/trybe-project-movie-cards-library/static/css/main.e2f7de8e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5891c939.js",
+    "static/js/2.9a6a2542.chunk.js",
+    "static/css/main.e2f7de8e.chunk.css",
+    "static/js/main.594e7d02.chunk.js"
+  ]
+}
